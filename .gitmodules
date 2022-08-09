@@ -1,3 +1,6 @@
 [submodule "Goggles"]
 	path = Goggles
 	url = https://github.com/The-Eye-of-Ar3s/Goggles
+[submodule "WhitePhosphorus"]
+	path = WhitePhosphorus
+	url = https://github.com/The-Eye-of-Ar3s/WhitePhosphorus
