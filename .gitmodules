@@ -4,3 +4,6 @@
 [submodule "WhitePhosphorus"]
 	path = WhitePhosphorus
 	url = https://github.com/The-Eye-of-Ar3s/WhitePhosphorus
+[submodule "OP_RK2"]
+	path = OP_RK2
+	url = https://github.com/The-Eye-of-Ar3s/OP_RK2
