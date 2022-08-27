@@ -25,3 +25,6 @@
 [submodule "AllItemsExamined-Reboot"]
 	path = AllItemsExamined-Reboot
 	url = https://github.com/The-Eye-of-Ar3s/AllItemsExamined-Reboot
+[submodule "Questor-Reboot"]
+	path = Questor-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/Questor-Reboot
