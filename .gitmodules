@@ -7,3 +7,15 @@
 [submodule "OP_RK2"]
 	path = OP_RK2
 	url = https://github.com/The-Eye-of-Ar3s/OP_RK2
+[submodule "AllTheBackupSights"]
+	path = AllTheBackupSights
+	url = https://github.com/The-Eye-of-Ar3s/AllTheBackupSights
+[submodule "ClearThermals"]
+	path = ClearThermals
+	url = https://github.com/The-Eye-of-Ar3s/ClearThermals
+[submodule "BetterLights-Lasers-Reboot"]
+	path = BetterLights-Lasers-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/BetterLights-Lasers-Reboot
+[submodule "BetterPK06-Reboot"]
+	path = BetterPK06-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/BetterPK06-Reboot
