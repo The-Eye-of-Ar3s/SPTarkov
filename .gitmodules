@@ -22,3 +22,6 @@
 [submodule "Gunsmith-Reboot"]
 	path = Gunsmith-Reboot
 	url = https://github.com/The-Eye-of-Ar3s/Gunsmith-Reboot
+[submodule "AllItemsExamined-Reboot"]
+	path = AllItemsExamined-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/AllItemsExamined-Reboot
