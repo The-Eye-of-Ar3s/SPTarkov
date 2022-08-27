@@ -19,3 +19,6 @@
 [submodule "BetterPK06-Reboot"]
 	path = BetterPK06-Reboot
 	url = https://github.com/The-Eye-of-Ar3s/BetterPK06-Reboot
+[submodule "Gunsmith-Reboot"]
+	path = Gunsmith-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/Gunsmith-Reboot
