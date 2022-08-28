@@ -31,3 +31,6 @@
 [submodule "AlexAIO-reboot"]
 	path = AlexAIO-reboot
 	url = https://github.com/The-Eye-of-Ar3s/AlexAIO-reboot
+[submodule "AWM"]
+	path = AWM
+	url = https://github.com/The-Eye-of-Ar3s/AWM
