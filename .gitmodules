@@ -28,3 +28,6 @@
 [submodule "Questor-Reboot"]
 	path = Questor-Reboot
 	url = https://github.com/The-Eye-of-Ar3s/Questor-Reboot
+[submodule "AlexAIO-reboot"]
+	path = AlexAIO-reboot
+	url = https://github.com/The-Eye-of-Ar3s/AlexAIO-reboot
