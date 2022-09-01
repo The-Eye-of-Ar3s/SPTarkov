@@ -34,3 +34,6 @@
 [submodule "AWM"]
 	path = AWM
 	url = https://github.com/The-Eye-of-Ar3s/AWM
+[submodule "SnaccPack-Reboot"]
+	path = SnaccPack-Reboot
+	url = https://github.com/The-Eye-of-Ar3s/SnaccPack-Reboot
